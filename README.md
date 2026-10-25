@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Daga 👋
 
-Clinical Psychologist, Emotional Wellness Coach, and Founder of **Healing Emotions**. Bridging psychological well-being, personal growth, and digital content.
+Psychologist, Emotional Wellness Coach, and Founder of **Healing Emotions**. Bridging psychological well-being, personal growth, and digital content.
 
 ---
 
