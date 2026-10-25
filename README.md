@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Yash Daga 👋
 
-<!--
-**healingemotionsco11/healingemotionsco11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clinical Psychologist, Emotional Wellness Coach, and Founder of **Healing Emotions**. Bridging psychological well-being, personal growth, and digital content.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 💼 Founder & Psychologist at **Healing Emotions**
+- 📍 Based in **Pune, India**
+- 🎯 Focus areas: Clinical psychology, emotional resilience, sports psychology & counseling
+- 💻 Exploring digital tools, wellness resources, and creator workflows
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashdaga632/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/healing_emotions_/)
+[![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=target&logoColor=white)](https://topmate.io/healing_emotions)
+[![Company LinkedIn](https://img.shields.io/badge/Healing_Emotions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/healingemotions/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61588363863090)
+
+---
+
+### 📊 GitHub Activity
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=healingemotionsco11&show_icons=true&theme=radical)
